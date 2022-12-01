@@ -31,7 +31,7 @@ const props = defineProps(["product"]);
   background-color: #f6f8fa;
 
   @media screen and (max-width: 400px) {
-    height: 525px;
+    height: 490px;
     padding: 0 25px 25px;
   }
 }

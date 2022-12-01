@@ -307,8 +307,8 @@ const sendCart = () => {
   @media screen and (max-width: 530px) {
     width: 100%;
   }
-  @media screen and (max-width: 370px) {
-    margin-top: 50px;
+  @media screen and (max-width: 400px) {
+    margin-top: 10px;
     padding: 20px 15px 35px;
   }
 }

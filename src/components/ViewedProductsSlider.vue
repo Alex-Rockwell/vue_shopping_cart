@@ -83,6 +83,10 @@ const { viewedProducts } = storeToRefs(productsStore);
   align-items: center;
   margin-bottom: 45px;
   flex-wrap: wrap;
+
+  @media screen and (max-width: 400px) {
+    margin-bottom: 25px;
+  }
 }
 .slider__title {
   font-weight: 600;
