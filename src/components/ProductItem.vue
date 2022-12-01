@@ -14,7 +14,7 @@
       {{ product.price_range.second }}
     </span>
     <button class="v-item__button" @click="handleAddToCart(product)">
-      В корзину
+      В корзину...
     </button>
   </div>
 </template>

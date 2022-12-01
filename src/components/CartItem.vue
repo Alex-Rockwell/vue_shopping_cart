@@ -3,7 +3,7 @@
     <div class="cart-item__details">
       <div class="cart-item__img-box">
         <img
-          :src="`../assets/${props.cartItem.image}`"
+          :src="`../../assets/${props.cartItem.image}`"
           :alt="cartItem.title"
           class="cart-item__img"
         />
